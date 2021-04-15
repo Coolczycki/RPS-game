@@ -1,6 +1,7 @@
 <h2><b>Rock, Paper & Scissors Javascript game</b></h2>
 <hr>
-![RPS-preview](https://user-images.githubusercontent.com/73229242/114895861-20aff580-9e10-11eb-8ed7-0d3a433f977b.png)
+![RPS-preview](https://user-images.githubusercontent.com/73229242/114895982-3a513d00-9e10-11eb-887f-163e20512b30.png)
+
 <br>
 <p>Interactive game where player plays agaist computer to score three points in order to win the game. Rules are simple; <br>
 Rock > Scissors<br>
