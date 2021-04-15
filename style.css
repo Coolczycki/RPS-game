@@ -1,0 +1,114 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style:none;
+	
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-spacing: 0;
+}
+
+/*--------code starts here----------*/
+
+main{
+	width:50%;
+	text-align:center;
+	margin:auto;
+	font-family: 'Goldman', cursive;
+}
+
+h1{
+	font-size:36px;
+	margin-top:50px;
+}
+
+p{
+	font-size:20px;
+	padding:20px 0 40px 0;
+}
+
+table{
+	margin:auto;
+	font-size:26px;
+}
+
+table, th, td{
+	border:1px solid black;
+}
+.thpadding{
+	padding:15px 0 15px 0;
+}	
+
+li{
+	display:inline;
+}
+
+.tableimage{
+	width:350px;
+	height:400px;
+}
+ul{
+	margin-top:75px;
+}
+
+button{
+	width:250px;
+	height:50px;
+}
+
+button:hover{
+	transform:scale(1.1);
+
+}
+
+.paper{
+	background-image:url(papertexture.jpg);
+}
+
+.rock{
+	background-image:url(stonetexture.jpg);
+	color:white;
+}
+
+.scissors{
+	background-image:url(metaltexture.png);
+}
+.paper, .rock, .scissors{
+	font-family: 'Goldman', cursive;
+	font-size:22px;
+	text-transform:uppercase;
+}
