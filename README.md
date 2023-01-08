@@ -19,7 +19,7 @@ Paper > Rock<br>
 <br>
 <h3><b>Live Demo</b></h3>
 <hr>
-<a href="https://loosescrew022.github.io/RPS-game/">Live Demo Link</a><br>
+<https://coolczycki.github.io/RPS-game/">Live Demo Link</a><br>
 <h3><b>Getting Started</b></h3>
 <hr>
 <p>To get a local copy up and running follow these simple example steps</p>
