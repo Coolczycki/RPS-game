@@ -39,7 +39,7 @@ Paper > Rock<br>
 <h3><b>Contributing</b></h3>
 <hr>
 Contributions, issues, and feature requests are welcome!<br>
-Feel free to check the<a href="https://github.com/Loosescrew022/Week1-project/pull/5"> issues</a> page.
+Feel free to check the<a href="https://coolczycki.github.io/RPS-game/"> issues</a> page.
 <hr>
 <h3><b>Show your support</b></h3>
 Give a ⭐️ if you like this project!<hr>
